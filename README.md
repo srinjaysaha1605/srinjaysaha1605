@@ -18,7 +18,7 @@ status: building
 | | Build | What it is | Built with |
 | :-- | :-- | :-- | :-- |
 | `01` | [**DEMON CIPHER**](https://github.com/srinjaysaha1605/demon-cipher) | Offline, zero-knowledge password manager and generator with real-time entropy analysis. [LIVE](https://demon-cipher.netlify.app/) | React · TypeScript · Tailwind · Web Crypto |
-| `02` | [**AI QUEST STUDY RPG**](https://github.com/srinjaysaha1605/aiquest-studyrpg) | An 8-bit study adventure where generative AI turns academic topics into curriculum-driven battles. | React · TypeScript · Generative AI · Supabase |
+| `02` | [**AI QUEST STUDY RPG**](https://github.com/srinjaysaha1605/aiquest-studyrpg) | An 8-bit study adventure where generative AI turns academic topics into curriculum-driven battles. [LIVE](https://aiquest-studyrpg.netlify.app/) | React · TypeScript · Generative AI · Supabase |
 | `03` | [**VOID_CHAT**](https://github.com/srinjaysaha1605/void_chat) | A real-time, terminal-inspired messaging experiment. | React · Supabase Realtime · PostgreSQL |
 | `04` | [**MC-CLAN**](https://github.com/srinjaysaha1605/mc-clan) | Tactical player database and roster manager with interactive terminal controls and real-time data. | TypeScript · React · Supabase |
 | `05` | [**LEDGERLY**](https://github.com/srinjaysaha1605/Ledgerly) | Arcade-themed personal finance tracking built to make budgeting and wealth tracking feel less like paperwork. | TypeScript · React · Supabase |
