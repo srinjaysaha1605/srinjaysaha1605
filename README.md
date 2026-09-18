@@ -4,45 +4,142 @@
 
 ```text
 $ whoami
-```
 
-I’m **Srinjay Saha** — an MCA student and AI & full-stack developer building useful, slightly experimental software. I enjoy taking an idea from rough concept to a working system, then finding the parts worth rebuilding.
+Srinjay Saha
+MCA Student · AI / ML · Full-Stack
 
-```text
+I build things that sit somewhere between useful software
+and experiments that probably shouldn't exist.
+
 focus: AI × web × systems
-status: building
+mode: BUILD → BREAK → REBUILD
+status: online
 ```
+
+---
 
 ## `./featured-builds`
 
-| | Build | What it is | Built with |
-| :-- | :-- | :-- | :-- |
-| `01` | [**DEMON CIPHER**](https://github.com/srinjaysaha1605/demon-cipher) | Offline, zero-knowledge password manager and generator with real-time entropy analysis. [LIVE](https://demon-cipher.netlify.app/) | React · TypeScript · Tailwind · Web Crypto |
-| `02` | [**AI QUEST STUDY RPG**](https://github.com/srinjaysaha1605/aiquest-studyrpg) | An 8-bit study adventure where generative AI turns academic topics into curriculum-driven battles. [LIVE](https://aiquest-studyrpg.netlify.app/) | React · TypeScript · Generative AI · Supabase |
-| `03` | [**VOID_CHAT**](https://github.com/srinjaysaha1605/void_chat) | A real-time, terminal-inspired messaging experiment. [LIVE](https://enterthevoidchatroom.vercel.app/) | React · Supabase Realtime · PostgreSQL |
-| `04` | [**MC-CLAN**](https://github.com/srinjaysaha1605/mc-clan) | Tactical player database and roster manager with interactive terminal controls and real-time data. [LIVE](https://mc-clan.vercel.app/) | TypeScript · React · Supabase |
-| `05` | [**LEDGERLY**](https://github.com/srinjaysaha1605/Ledgerly) | Arcade-themed personal finance tracking built to make budgeting and wealth tracking feel less like paperwork. [LIVE](https://ledgerly-personalfinancetracker.vercel.app/) | TypeScript · React · Supabase |
-| `06` | [**SMART TEXT SUMMARIZER**](https://github.com/srinjaysaha1605/smart-text-summarizer) | Document summarization with NLP insights, entity/sentiment analysis, and RAG-powered chat. [LIVE](https://huggingface.co/spaces/WolfieBoye/smart-text-summarizer) | Python · NLP · RAG |
+> A few things I've built, broken, rebuilt, and shipped.
 
-<sub>More experiments live in the <a href="https://github.com/srinjaysaha1605?tab=repositories">repository index</a>.</sub>
+### `01` — [MORPHOS](https://github.com/srinjaysaha1605/Morphos)
+
+**Generative Evolutionary Specimen Laboratory**
+
+A procedural art system where mathematical organisms evolve through human selection. Recursive geometry, radial symmetry, seeded randomness, genetic crossover, mutation, and Canvas rendering — no generative AI involved.
+
+`TypeScript` `Canvas` `Generative Systems` `Genetic Algorithms`
+
+**[ LIVE → ADD LINK ]**
+
+---
+
+### `02` — [ENCRYPT](https://github.com/srinjaysaha1605/Encrypt)
+
+**Interactive Cryptography Laboratory**
+
+A terminal-driven cryptography learning environment built around real browser cryptography primitives. Explore hashing, AES-GCM, HMAC, key derivation, CSPRNGs, public-key cryptography, signatures, certificates, TLS, and more.
+
+`React` `TypeScript` `Web Crypto API` `Cryptography`
+
+**[ LIVE → ADD LINK ]**
+
+---
+
+### `03` — [SYNAPSE AI](https://github.com/srinjaysaha1605/synapseai-personacognitivenetwork)
+
+**Multi-Persona Cognitive Reasoning Engine**
+
+An AI workspace built around specialized reasoning modes instead of one generic chatbot. Switch between analytical personas, create custom ones, inspect their rules, stream responses, and preserve conversations.
+
+`React` `TypeScript` `Gemini` `Node.js` `Express`
+
+**[ LIVE → ADD LINK ]**
+
+---
+
+### `04` — [E-COMMERCE RECSYS](https://github.com/srinjaysaha1605/ecommerce-recsys)
+
+**Customer Analytics & Recommendation System**
+
+A full-stack ML system combining customer segmentation, collaborative filtering, churn prediction, and customer lifetime value forecasting into one analytical platform.
+
+`Python` `Pandas` `Scikit-learn` `XGBoost` `ALS` `Streamlit`
+
+**[ LIVE → ADD LINK ]**
+
+---
+
+### `05` — [AI QUEST](https://github.com/srinjaysaha1605/aiquest-studyrpg)
+
+**AI-Powered Study RPG**
+
+Turns studying into an 8-bit RPG. Academic topics become dynamically generated quests, questions become battles, and progress persists across sessions.
+
+`React` `TypeScript` `Gemini` `Supabase` `Netlify`
+
+**[ LIVE → ADD LINK ]**
+
+---
+
+```text
+┌──────────────────────────────────────────────────────────────┐
+│                       MORE EXPERIMENTS                       │
+├──────────────────────────────────────────────────────────────┤
+│                                                              │
+│  DEMON CIPHER        →  cryptographic password manager      │
+│  BLOODSTRIKE TM      →  esports tournament management       │
+│  LEDGERLY            →  gamified personal finance           │
+│  VOID_CHAT           →  realtime terminal messaging         │
+│  MORAL.EXE           →  adaptive AI ethics simulations      │
+│  SPECTRA             →  dataset exploration & ML analysis   │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
+```
+
+[→ Explore the repository index](https://github.com/srinjaysaha1605?tab=repositories)
+
+---
 
 ## `cat /etc/stack`
 
 ```text
-LANGUAGES    Python · TypeScript · JavaScript · SQL
-FRONTEND     React · HTML · CSS · Tailwind CSS
-BACKEND      Node.js · Supabase · Firebase · PostgreSQL
-AI / ML      Generative AI · NLP · RAG · scikit-learn · PyTorch
-TOOLING      Git · GitHub · Vite
+LANGUAGES
+Python · TypeScript · JavaScript · SQL
+
+BUILD
+React · Node.js · Vite · HTML · CSS · Tailwind CSS
+
+DATA
+PostgreSQL · Supabase · Firebase · SQL
+
+AI / ML
+Generative AI · NLP · RAG · Scikit-learn · XGBoost · PyTorch
+
+SYSTEMS
+Web Crypto · Canvas · Realtime Systems · REST APIs
+
+TOOLING
+Git · GitHub · Netlify · Vercel · Google AI Studio
 ```
+
+---
 
 ## `tail -f /var/log/akuma.log`
 
 ```text
-[online]    building AI-assisted applications
-[online]    experimenting with realtime and intelligent interfaces
-[online]    learning by shipping, breaking, and rebuilding
+[ OK ] building AI-assisted applications
+[ OK ] experimenting with realtime systems
+[ OK ] exploring machine learning beyond notebooks
+[ OK ] turning mathematical ideas into interfaces
+[ OK ] learning by shipping
+[ OK ] breaking things
+[ OK ] rebuilding them better
+
+[....] next experiment loading
 ```
+
+---
 
 ## `./connect`
 
@@ -57,8 +154,15 @@ PORTFOLIO    akumasportfolio.vercel.app
   <a href="https://akumasportfolio.vercel.app/">PORTFOLIO</a>
 </p>
 
+---
+
 ```text
-// AKUMA
-// BUILD. BREAK. REBUILD.
-// EOF
+                    ┌─────────────────────┐
+                    │        AKUMA        │
+                    │                     │
+                    │  BUILD. BREAK.      │
+                    │  REBUILD.           │
+                    └─────────────────────┘
+
+                         // EOF
 ```
