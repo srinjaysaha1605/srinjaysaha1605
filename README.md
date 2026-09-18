@@ -54,7 +54,7 @@ An AI workspace built around specialized reasoning modes instead of one generic 
 
 `React` `TypeScript` `Gemini` `Node.js` `Express`
 
-**[ LIVE → ADD LINK ]**
+**[ LIVE ](https://synapseai-personacognitivenetwork.netlify.app/)**
 
 ---
 
@@ -66,7 +66,7 @@ A full-stack ML system combining customer segmentation, collaborative filtering,
 
 `Python` `Pandas` `Scikit-learn` `XGBoost` `ALS` `Streamlit`
 
-**[ LIVE → ADD LINK ]**
+**[ LIVE ](https://ecom-customer-insights.streamlit.app/)**
 
 ---
 
@@ -78,7 +78,7 @@ Turns studying into an 8-bit RPG. Academic topics become dynamically generated q
 
 `React` `TypeScript` `Gemini` `Supabase` `Netlify`
 
-**[ LIVE → ADD LINK ]**
+**[ LIVE ](https://aiquest-studyrpg.netlify.app/)**
 
 ---
 
