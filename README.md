@@ -82,6 +82,14 @@ Turns studying into an 8-bit RPG. Academic topics become dynamically generated q
 
 ---
 
+### `MORE` — [REPOSITORY INDEX](https://github.com/srinjaysaha1605?tab=repositories)
+
+**More Experiments, Builds & Prototypes**
+
+The rest of the lab — including smaller experiments, older builds, and projects currently in development.
+
+**[ EXPLORE ALL PROJECTS → ]**
+
 ## `cat /etc/stack`
 
 ```text
