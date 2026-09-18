@@ -1,41 +1,19 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-labelledby="title desc">
-  <title id="title">AKUMA system profile</title>
-  <desc id="desc">A dark terminal-style introduction for Srinjay Saha, AI and full-stack developer.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="470" viewBox="0 0 1200 470" role="img" aria-label="AKUMA — AI and full-stack developer">
   <defs>
-    <linearGradient id="fade" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#00e5ff" stop-opacity="0"/>
-      <stop offset="0.16" stop-color="#00e5ff" stop-opacity="0.75"/>
-      <stop offset="0.84" stop-color="#00e5ff" stop-opacity="0.75"/>
-      <stop offset="1" stop-color="#00e5ff" stop-opacity="0"/>
-    </linearGradient>
-    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
-      <path d="M36 0H0V36" fill="none" stroke="#ffffff" stroke-opacity="0.035"/>
-    </pattern>
+    <pattern id="grid" width="8" height="8" patternUnits="userSpaceOnUse"><path d="M0 .5H8M.5 0V8" stroke="#fff" stroke-opacity=".055"/></pattern>
+    <linearGradient id="fade" x2="0" y2="1"><stop stop-color="#fff" stop-opacity=".06"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
   </defs>
-  <rect width="1200" height="420" fill="#07090b"/>
-  <rect width="1200" height="420" fill="url(#grid)"/>
-  <rect x="30" y="28" width="1140" height="364" rx="2" fill="none" stroke="#ffffff" stroke-opacity="0.18"/>
-  <path d="M30 76H1170" stroke="#ffffff" stroke-opacity="0.18"/>
-  <circle cx="58" cy="52" r="5" fill="#00e5ff"/>
-  <circle cx="78" cy="52" r="5" fill="#ffffff" fill-opacity="0.3"/>
-  <circle cx="98" cy="52" r="5" fill="#ffffff" fill-opacity="0.16"/>
-  <g fill="#aab4bc" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" letter-spacing="1.6">
-    <text x="124" y="57">AKUMA.OS / PROFILE</text>
-    <text x="75" y="121" fill="#00e5ff">$ boot developer_profile --identity</text>
-    <text x="75" y="151">[OK]  identity .............. loaded</text>
-    <text x="75" y="176">[OK]  projects .............. indexed</text>
-    <text x="75" y="201">[OK]  system ................ online</text>
-  </g>
-  <g text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
-    <text x="810" y="174" fill="#f4f7f8" font-size="62" font-weight="700" letter-spacing="13">AKUMA</text>
-    <text x="810" y="210" fill="#aab4bc" font-size="15" letter-spacing="4">SRINJAY SAHA</text>
-    <path d="M601 235H1019" stroke="url(#fade)"/>
-    <text x="810" y="273" fill="#f4f7f8" font-size="16" letter-spacing="2">AI &amp; FULL-STACK DEVELOPER</text>
-    <text x="810" y="309" fill="#00e5ff" font-size="16" letter-spacing="2.5">BUILD. BREAK. REBUILD.</text>
-  </g>
-  <g fill="#aab4bc" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" letter-spacing="1.3">
-    <text x="75" y="347">STATUS  <tspan fill="#00e5ff">ONLINE</tspan></text>
-    <text x="75" y="370">FOCUS   AI × WEB × SYSTEMS</text>
-    <text x="900" y="370">v1.0.0</text>
-  </g>
+  <rect width="1200" height="470" fill="#050505"/><rect width="1200" height="470" fill="url(#grid)"/>
+  <rect x="0" y="0" width="1200" height="42" fill="#0c0c0c" stroke="#fff" stroke-opacity=".28"/>
+  <circle cx="25" cy="21" r="6" fill="none" stroke="#fff" stroke-opacity=".55"/><circle cx="45" cy="21" r="6" fill="none" stroke="#fff" stroke-opacity=".55"/><circle cx="65" cy="21" r="6" fill="none" stroke="#fff" stroke-opacity=".55"/>
+  <text x="600" y="26" text-anchor="middle" fill="#d8d8d8" font-family="ui-monospace,Consolas,monospace" font-size="13">srinjay@akuma: ~</text>
+  <path d="M16 70h18M16 70v18M1184 70h-18M1184 70v18M16 400h18M16 400v-18M1184 400h-18M1184 400v-18" fill="none" stroke="#fff" stroke-opacity=".65" stroke-width="2"/>
+  <text x="48" y="110" fill="#d8d8d8" font-family="ui-monospace,Consolas,monospace" font-size="20">$ whoami</text>
+  <text x="48" y="225" fill="#fff" font-family="ui-monospace,Consolas,monospace" font-size="104" letter-spacing="15">AKUMA</text>
+  <path d="M49 245H475" stroke="#fff" stroke-width="2"/><text x="49" y="288" fill="#fff" font-family="ui-monospace,Consolas,monospace" font-size="22" font-weight="700" letter-spacing="7">AI &amp; FULL-STACK DEVELOPER</text>
+  <text x="49" y="327" fill="#b8b8b8" font-family="ui-monospace,Consolas,monospace" font-size="15">I build things that sit somewhere between useful software</text><text x="49" y="350" fill="#b8b8b8" font-family="ui-monospace,Consolas,monospace" font-size="15">and experiments that probably shouldn't exist.</text>
+  <text x="49" y="389" fill="#fff" font-family="ui-monospace,Consolas,monospace" font-size="19" letter-spacing="5">&gt; BUILD. BREAK. REBUILD. █</text>
+  <rect x="747" y="103" width="405" height="202" fill="#060606" fill-opacity=".86" stroke="#fff" stroke-opacity=".32"/><text x="772" y="130" fill="#aaa" font-family="ui-monospace,Consolas,monospace" font-size="13" letter-spacing="4">SYSTEM</text>
+  <g font-family="ui-monospace,Consolas,monospace" font-size="15"><text x="772" y="169" fill="#fff">[ OK ]</text><text x="838" y="169" fill="#aaa">name</text><text x="900" y="169" fill="#fff">Srinjay Saha</text><text x="772" y="201" fill="#fff">[ OK ]</text><text x="838" y="201" fill="#aaa">role</text><text x="900" y="201" fill="#fff">MCA · AI/ML · Full-Stack</text><text x="772" y="233" fill="#fff">[ OK ]</text><text x="838" y="233" fill="#aaa">focus</text><text x="900" y="233" fill="#fff">AI × Web × Systems</text><text x="772" y="265" fill="#fff">[ ON ]</text><text x="838" y="265" fill="#aaa">status</text><text x="900" y="265" fill="#fff">online ●</text></g>
+  <rect y="400" width="1200" height="70" fill="url(#fade)"/>
 </svg>
