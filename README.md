@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/akuma-hero.png" alt="AKUMA — Srinjay Saha, AI and full-stack developer" width="100%" />
+  <img src="assets/akuma-hero.svg" alt="AKUMA — Srinjay Saha, AI and full-stack developer" width="100%" />
 </p>
 
 ```text
