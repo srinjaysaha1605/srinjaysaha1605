@@ -30,7 +30,7 @@ A procedural art system where mathematical organisms evolve through human select
 
 `TypeScript` `Canvas` `Generative Systems` `Genetic Algorithms`
 
-**[ LIVE → ADD LINK ]**
+**[ LIVE → https://morphos-gen.vercel.app/ ]**
 
 ---
 
@@ -42,7 +42,7 @@ A terminal-driven cryptography learning environment built around real browser cr
 
 `React` `TypeScript` `Web Crypto API` `Cryptography`
 
-**[ LIVE → https://morphos-gen.vercel.app/ ]**
+**[ LIVE → https://encrypt-ars-cryptographica.vercel.app/ ]**
 
 ---
 
