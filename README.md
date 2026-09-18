@@ -82,25 +82,6 @@ Turns studying into an 8-bit RPG. Academic topics become dynamically generated q
 
 ---
 
-```text
-┌──────────────────────────────────────────────────────────────┐
-│                       MORE EXPERIMENTS                       │
-├──────────────────────────────────────────────────────────────┤
-│                                                              │
-│  DEMON CIPHER        →  cryptographic password manager      │
-│  BLOODSTRIKE TM      →  esports tournament management       │
-│  LEDGERLY            →  gamified personal finance           │
-│  VOID_CHAT           →  realtime terminal messaging         │
-│  MORAL.EXE           →  adaptive AI ethics simulations      │
-│  SPECTRA             →  dataset exploration & ML analysis   │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
-```
-
-[→ Explore the repository index](https://github.com/srinjaysaha1605?tab=repositories)
-
----
-
 ## `cat /etc/stack`
 
 ```text
