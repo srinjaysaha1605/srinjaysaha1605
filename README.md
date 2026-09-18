@@ -135,6 +135,7 @@ Git · GitHub · Netlify · Vercel · Google AI Studio
 ```text
 GITHUB       github.com/srinjaysaha1605
 PORTFOLIO    akumasportfolio.vercel.app
+LINKEDIN     linkedin.com/in/srinjaysaha1605/
 ```
 
 <p>
