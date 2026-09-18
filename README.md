@@ -142,6 +142,8 @@ LINKEDIN     linkedin.com/in/srinjaysaha1605/
   <a href="https://github.com/srinjaysaha1605">GITHUB</a>
   &nbsp;·&nbsp;
   <a href="https://akumasportfolio.vercel.app/">PORTFOLIO</a>
+  &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/srinjaysaha1605/">LINKEDIN</a>
 </p>
 
 ---
